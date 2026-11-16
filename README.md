@@ -23,11 +23,11 @@ I build PHP web applications, run hosting environments, and set up e-commerce st
 
 ## 🧰 What I work with
 
-**Web development:** PHP · SQLite · MySQL · HTML · CSS · JavaScript
-**CMS & e-commerce:** WordPress · WooCommerce · Shopify · custom webshops
-**Hosting & ops:** Linux servers · cPanel · VPS & dedicated servers · DNS · e-mail · network infrastructure · WireGuard VPN
-**Project management:** client ↔ dev-team coordination (external PM for an online grocery marketplace, 2021–2023)
-**Maker side:** ESP32 / Arduino · Fusion 360 & 3D printing · DaVinci Resolve
+- **Web development:** PHP · SQLite · MySQL · HTML · CSS · JavaScript
+- **CMS & e-commerce:** WordPress · WooCommerce · Shopify · custom webshops
+- **Hosting & ops:** Linux servers · cPanel · VPS & dedicated servers · DNS · e-mail · network infrastructure · WireGuard VPN
+- **Project management:** client ↔ dev-team coordination (external PM for an online grocery marketplace, 2021–2023)
+- **Maker side:** ESP32 / Arduino · Fusion 360 & 3D printing · DaVinci Resolve
 
 ---
 
